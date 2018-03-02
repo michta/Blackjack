@@ -1,3 +1,5 @@
+// program w windowsa
+
 #pragma once
 #include "Gracz.h"
 #include <iostream>
